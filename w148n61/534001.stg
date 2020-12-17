@@ -1,0 +1,4 @@
+OBJECT_BASE 534001.btg
+OBJECT PASP.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -147.513474 61.810882 844.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -147.500370 61.813097 845.1 0.00
